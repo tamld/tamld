@@ -1,7 +1,7 @@
 Hi 👋 My name is Tam Le Duc
 ===========================
 
-"IT Engineer passionate about technology, driving innovation to optimize business operations."
+Tech enthusiast and IT engineer, on a mission to sprinkle innovation on business operations and turn complexity into simplicity!.
 ----------------------------------------------------------------------------------------------
 
 I am an IT engineer passionate about technology, always eager to explore new tech stacks and software solutions. My focus is on helping businesses streamline operations, enhance efficiency, and reduce operational costs.
