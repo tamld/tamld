@@ -6,11 +6,15 @@ Tech enthusiast and IT engineer, on a mission to sprinkle innovation on business
 
 I am an IT engineer passionate about technology, always eager to explore new tech stacks and software solutions. My focus is on helping businesses streamline operations, enhance efficiency, and reduce operational costs.
 
-* 🌍  I'm based in Vietnam
-* ✉️  You can contact me at [ductam1828@gmail.com](mailto:ductam1828@gmail.com)
-* 🧠  I'm learning CMD bat scripts, bash scripts, Ansible, Terraform, Virtualization...etc
-* 🤝  I'm open to collaborating on System Optimization: "Optimizing systems to enhance operational efficiency and reduce costs." & Tech Consulting: "Providing technical consulting to help businesses select and implement the best technology solutions for their needs."
-* ⚡  "When I'm not optimizing systems, I'm enjoying quiet moments with my furry friends—dogs and cats—in nature."
+🌍 I'm currently based in Vietnam.
+
+✉️ Feel free to reach out to me at ductam1828@gmail.com.
+
+🧠 I'm on a journey to learn about CMD bat scripts, bash scripts, Ansible, Terraform, and virtualization.
+
+🤝 I’m open to collaborating on projects related to system optimization to enhance operational efficiency and reduce costs, as well as providing tech consulting to help businesses choose and implement the best technology solutions for their needs.
+
+⚡ When I’m not optimizing systems, I enjoy peaceful moments with my furry friends—dogs and cats—out in nature.
 
 <a href="https://www.github.com/tamld" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tamld?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
