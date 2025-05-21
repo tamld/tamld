@@ -96,7 +96,7 @@ To me, working like a background service — always there, often unnoticed — c
 ## 📬 Reach me
 
 - Email: [ductam1828@gmail.com](mailto:ductam1828@gmail.com)  
-- LinkedIn: [tam-le-179041163](https://linkedin.com/in/tam-le-179041163)  
+- LinkedIn: [linkedin.com/in/tamld](https://linkedin.com/in/tamld)
 - YouTube: [@uctamle8644](https://www.youtube.com/@@uctamle8644)
 
 ---

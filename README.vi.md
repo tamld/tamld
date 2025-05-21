@@ -15,7 +15,8 @@
   - [🤝 Cách mình làm việc](#-cách-mình-làm-việc)
   - [🔭 Hiện đang tìm hiểu](#-hiện-đang-tìm-hiểu)
   - [📬 Liên hệ](#-liên-hệ)
-  - [⚙️ Kỹ năng](#️-kỹ-năng)  - [📊 Thống kê GitHub](#-thống-kê-github)
+  - [⚙️ Kỹ năng](#️-kỹ-năng)
+  - [📊 Thống kê GitHub](#-thống-kê-github)
   - [📌 Kho lưu trữ nổi bật](#-kho-lưu-trữ-nổi-bật)
   - [📚 Lộ trình học tập](#-lộ-trình-học-tập)
   - [☕ Ủng hộ](#-ủng-hộ)
@@ -92,7 +93,7 @@ Là một người hướng nội, mình thích sự bình dị hơn là tỏa s
 ## 📬 Liên hệ
 
 - Email: [ductam1828@gmail.com](mailto:ductam1828@gmail.com)  
-- LinkedIn: [tam-le-179041163](https://linkedin.com/in/tam-le-179041163)  
+- LinkedIn: [linkedin.com/in/tamld](https://linkedin.com/in/tamld)  
 - YouTube: [@uctamle8644](https://www.youtube.com/@@uctamle8644)
 
 ---
