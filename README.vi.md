@@ -134,9 +134,9 @@ Là một người hướng nội, mình thích sự bình dị hơn là tỏa s
 
 ## 📚 Lộ trình học tập
 
-Tôi luôn tin tưởng vào việc học tập liên tục và phát triển chuyên môn. Hiện tại, tôi đang theo đuổi một lộ trình có cấu trúc để nâng cao kỹ năng trong lĩnh vực cơ sở hạ tầng IT, mạng, công nghệ đám mây và nhiều lĩnh vực khác.
+Mình luôn tin tưởng vào việc học tập liên tục và phát triển chuyên môn. Hiện tại, mình đang theo đuổi một lộ trình có cấu trúc để nâng cao kỹ năng trong lĩnh vực cơ sở hạ tầng IT, mạng, công nghệ đám mây và nhiều lĩnh vực khác.
 
-Xem đầy đủ [Lộ trình học tập](./Learning.md) của tôi để biết chi tiết về các khóa học và chứng chỉ tôi đang theo đuổi.
+Xem đầy đủ [Lộ trình học tập](./Learning.md) của mình để biết chi tiết về các khóa học và chứng chỉ mình đang theo đuổi.
 
 **Đã hoàn thành gần đây:**
 - Cisco Networking Basics
