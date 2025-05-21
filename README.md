@@ -18,6 +18,7 @@
   - [⚙️ Skills](#️-skills)
   - [📊 GitHub Stats](#-github-stats)
   - [📌 Top Repositories](#-top-repositories)
+  - [📚 Learning Path](#-learning-path)
   - [☕ Support](#-support)
 
 💡 I’m a systems engineer who appreciates clarity, structure, and steady reliability. I don’t build systems to impress — I build them to quietly endure.
@@ -131,6 +132,20 @@ To me, working like a background service — always there, often unnoticed — c
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tamld&repo=IaC&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
+
+---
+
+## 📚 Learning Path
+
+I believe in continuous learning and professional development. I'm currently following a structured path to enhance my skills in IT infrastructure, networking, cloud technologies, and more.
+
+View my full [Learning Roadmap](./Learning.md) for details on courses and certifications I'm pursuing.
+
+**Recently Completed:**
+- Cisco Networking Basics
+- Introduction to Networking - NVIDIA Academy
+- Network Support and Security (Cisco Networking Academy)  
+- Diploma in Information Technology Support (Alison.com)
 
 ---
 

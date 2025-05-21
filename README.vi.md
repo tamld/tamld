@@ -15,9 +15,9 @@
   - [🤝 Cách mình làm việc](#-cách-mình-làm-việc)
   - [🔭 Hiện đang tìm hiểu](#-hiện-đang-tìm-hiểu)
   - [📬 Liên hệ](#-liên-hệ)
-  - [⚙️ Kỹ năng](#️-kỹ-năng)
-  - [📊 Thống kê GitHub](#-thống-kê-github)
+  - [⚙️ Kỹ năng](#️-kỹ-năng)  - [📊 Thống kê GitHub](#-thống-kê-github)
   - [📌 Kho lưu trữ nổi bật](#-kho-lưu-trữ-nổi-bật)
+  - [📚 Lộ trình học tập](#-lộ-trình-học-tập)
   - [☕ Ủng hộ](#-ủng-hộ)
 
 💡 Mình là một kỹ sư hệ thống theo đuổi sự rõ ràng, cấu trúc và độ ổn định — một dịch vụ hiệu quả. Mình tập trung vào việc xây dựng những hệ thống bền vững và dễ duy trì.
@@ -128,6 +128,20 @@ Là một người hướng nội, mình thích sự bình dị hơn là tỏa s
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tamld&repo=IaC&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=vi" />
   </a>
 </div>
+
+---
+
+## 📚 Lộ trình học tập
+
+Tôi luôn tin tưởng vào việc học tập liên tục và phát triển chuyên môn. Hiện tại, tôi đang theo đuổi một lộ trình có cấu trúc để nâng cao kỹ năng trong lĩnh vực cơ sở hạ tầng IT, mạng, công nghệ đám mây và nhiều lĩnh vực khác.
+
+Xem đầy đủ [Lộ trình học tập](./Learning.md) của tôi để biết chi tiết về các khóa học và chứng chỉ tôi đang theo đuổi.
+
+**Đã hoàn thành gần đây:**
+- Cisco Networking Basics
+- Introduction to Networking - NVIDIA Academy
+- Network Support and Security (Cisco Networking Academy)  
+- Diploma in Information Technology Support (Alison.com)
 
 ---
 
