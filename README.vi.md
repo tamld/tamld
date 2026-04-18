@@ -1,89 +1,111 @@
-# 👋 Xin chào, mình là tamld
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/tamld"><img src="https://img.shields.io/badge/AI%20Agent%20Architect-AAOS-6f42c1?style=for-the-badge&logo=anthropic&logoColor=white" /></a>
-  <a href="https://github.com/tamld"><img src="https://img.shields.io/badge/Infrastructure%20as%20Code-DevOps-0078D4?style=for-the-badge&logo=terraform&logoColor=white" /></a>
-  <a href="https://github.com/tamld"><img src="https://img.shields.io/github/followers/tamld?style=for-the-badge&logo=github&label=Followers" /></a>
-  <strong>🇻🇳 Tiếng Việt | <a href="./README.md">🌐 English</a></strong>
+# 👋 Xin chào, mình là Tam Le Duc
+
+**Systems Engineer ➜ AI Agent Architect**
+
+<p>
+  <a href="https://linkedin.com/in/tamld"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ductam1828@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/tamld"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://www.youtube.com/@uctamle8644"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
----
+<p>
+  <img src="https://komarev.com/ghpvc/?username=tamld&color=0e75b6&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/tamld?style=flat-square&color=0e75b6&label=Followers" />
+</p>
 
-> **Tôi xây dựng những hệ thống AI Agent tự vận hành — nơi các Agents lập kế hoạch, lập trình và kiểm duyệt lẫn nhau theo vòng phản hồi khép kín.**
-
-Trong hơn 10 năm làm kỹ sư hệ thống và hạ tầng, tôi đã chứng kiến tự động hóa chuyển mình qua từng thế hệ — từ shell script, IaC, cho đến orchestration đa tác nhân. Giờ đây tôi tập trung vào một câu hỏi cốt lõi: **Làm sao để một đội AI Agents phối hợp ăn ý và tự cải thiện, không cần giám sát liên tục?**
-
----
-
-## 🤖 Hiện đang nghiên cứu
-
-- **AAOS (Autonomous Agent Operating System)** — Khung quản trị vòng đời AI Agent với cơ chế kiểm tra & phản hồi tích hợp
-- **MCP (Model Context Protocol)** — Giao thức tiêu chuẩn để kết nối các AI Agent với công cụ ngoại vi
-- **Thiết kế Agent đa tầng** — Phối hợp giữa các vai trò Planner, Builder, Reviewer trong cùng pipeline
-- **Tự động hóa hạ tầng** — Docker · Proxmox · Terraform · Ansible
+</div>
 
 ---
 
-## 🚀 Dự án nổi bật
-
-### 🤖 AI Agents & Orchestration
-
-| Dự án | Mô tả |
-|-------|-------|
-| [mcp-orchestration-framework](https://github.com/tamld/mcp-orchestration-framework) | Khung MCP đa tác nhân — định tuyến multi-model, tool calling an toàn |
-| [free-gemini-chatbot](https://github.com/tamld/free-gemini-chatbot) | Chatbot Gemini miễn phí, chạy trong terminal, không cần API key trả phí |
-| [awesome-ai](https://github.com/tamld/awesome-ai) | Tổng hợp AI tools & workflows đang trending |
-| [awesome-prompt-engineering](https://github.com/tamld/awesome-prompt-engineering) | Kỹ thuật prompt hiệu quả — cho cả người dùng lẫn hệ thống tự động |
-
-### 🔐 Bảo mật & Hạ tầng
-
-| Dự án | Mô tả |
-|-------|-------|
-| [defense-in-depth](https://github.com/tamld/defense-in-depth) | Mô hình bảo mật phân tầng — từ kiểm soát thư mục đến phân vùng mạng |
-| [IaC](https://github.com/tamld/IaC) | Infrastructure as Code — Docker stacks, Proxmox scripts, VMware templates |
-| [foss-virtualization](https://github.com/tamld/foss-virtualization) | Hướng dẫn ảo hóa nguồn mở: Docker, K8s, Proxmox |
-
-### 🛠️ Công cụ & Tiện ích
-
-| Dự án | Mô tả |
-|-------|-------|
-| [cmdToolForHelpdesk](https://github.com/tamld/cmdToolForHelpdesk) | Bộ script tự động hóa cho IT Helpdesk trên Windows |
-| [hash-checker](https://github.com/tamld/hash-checker) | Công cụ xác minh tính toàn vẹn tệp tin — giao diện egui |
-| [proxy-checker](https://github.com/tamld/proxy-checker) | Kiểm tra proxy Python — thông báo qua Telegram |
-| [dd-clone-linux-system](https://github.com/tamld/dd-clone-linux-system) | Sao lưu và phục hồi hệ thống Linux qua SSH bằng dd |
+> *"Tôi không làm hệ thống để thể hiện — tôi làm để chúng hoạt động ổn định và thầm lặng.  
+> Từ hạ tầng bare-metal cho đến quản trị AI agent: một hệ thống vững chãi luôn bắt đầu từ sự cẩn trọng."*
 
 ---
 
-## 🧰 Kỹ năng & Công cụ
+## 🧠 Định hướng hiện tại — AI Agent Engineering
 
-**AI / Agents:** Anthropic Claude · Google Gemini · MCP · AAOS · LangChain
+Xây dựng các hệ thống AI agent tự động, có cơ chế kiểm soát rõ ràng (governed) và đáng tin cậy.
 
-**Hạ tầng:** Docker · Proxmox · VMware · Terraform · Ansible · Vagrant
+| Dự án | Mô tả | Công nghệ |
+|---------|------|-------|
+| 🛡️ [**defense-in-depth**](https://github.com/tamld/defense-in-depth) | Lớp phần mềm kiểm soát (Governance middleware) nằm giữa AI agents và codebase — chặn file rác (hollow artifacts), code thiếu kiểm duyệt (cowboy commits) & làm bẩn dữ liệu nguồn (SSoT pollution). | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| 🤖 [**ContribAI**](https://github.com/tang-vu/ContribAI) *(bản fork, contributor — tác giả gốc @tang-vu)* | AI agent tự động quét lỗi trên Open Source (OSS) và tự tạo PR. Đã có **9 PRs được merge** trên hơn 21 repos. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat) |
+| 🧩 [**mcp-orchestration-framework**](https://github.com/tamld/mcp-orchestration-framework) | Bản thử nghiệm (PoC) khởi tạo kiến trúc Multi-agent sử dụng Model Context Protocol (MCP). | ![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat) ![AI Agents](https://img.shields.io/badge/Multi--Agent-orange?style=flat) |
 
-**Bảo mật:** Fortinet · Zero Trust · Defense in Depth · Teleport
+---
 
-**Ngôn ngữ:** Bash · Python · PowerShell · YAML · TypeScript
+## 🏗️ Nền tảng Hạ tầng (Infrastructure)
+
+10 năm kinh nghiệm vận hành zero-downtime — nền tảng vững chắc cho mọi hệ thống khác.
+
+| Lĩnh vực | Công nghệ |
+|--------|-------------|
+| **Ảo hóa (Virtualization)** | ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) |
+| **IaC & Automation** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat&logo=vagrant&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
+| **Networking & Security** | ![Fortinet](https://img.shields.io/badge/Fortinet-C8102E?style=flat&logo=fortinet&logoColor=white) ![Zero Trust](https://img.shields.io/badge/Zero_Trust-000000?style=flat&logo=security&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Observability** | ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) |
+| **Ngôn ngữ lập trình** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+
+---
+
+## 📌 Danh sách Dự án
+
+<details>
+<summary><strong>🤖 AI & Agents</strong></summary>
+
+- 🛡️ [defense-in-depth](https://github.com/tamld/defense-in-depth) — Bộ công cụ kiểm soát (Governance toolkit) cho AI coding agents
+- 🧩 [mcp-orchestration-framework](https://github.com/tamld/mcp-orchestration-framework) — PoC kiến trúc Multi-agent sử dụng MCP
+- ✨ [awesome-prompt-engineering](https://github.com/tamld/awesome-prompt-engineering) — Tổng hợp prompt thực chiến cho tự động hoá AI + DevOps
+
+</details>
+
+<details>
+<summary><strong>🏗️ Infrastructure & IaC</strong></summary>
+
+- 🗂️ [IaC](https://github.com/tamld/IaC) — Script template Vagrant, Docker & shell cho Proxmox/VMware/VirtualBox
+- 🌐 [foss-virtualization](https://github.com/tamld/foss-virtualization) — Tài liệu mở hướng dẫn về Ảo hoá & Container
+
+</details>
+
+<details>
+<summary><strong>🛠️ Tools & Tiện ích</strong></summary>
+
+- 💻 [cmdToolForHelpdesk](https://github.com/tamld/cmdToolForHelpdesk) — Automation script hỗ trợ IT Helpdesk trên Windows (batch scripts)
+- 📥 [awesome-download-manager](https://github.com/tamld/awesome-download-manager) — Tài liệu tổng hợp các tool Download Manager
+- 🔐 [hash-checker](https://github.com/tamld/hash-checker) — Tool kiểm tra mã hash đa nền tảng viết bằng Rust (CLI + GUI)
+- 🔍 [proxy-checker](https://github.com/tamld/proxy-checker) — Tool check trạng thái proxy, tự động báo cáo qua Telegram
+
+</details>
 
 ---
 
 ## 📊 Thống kê GitHub
 
-<a href="http://www.github.com/tamld"><img src="https://github-readme-stats.vercel.app/api?username=tamld&show_icons=true&title_color=6f42c1&text_color=ffffff&icon_color=6f42c1&bg_color=0d1117&hide_border=true" alt="Thống kê GitHub của tamld" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamld&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamld&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-<a href="https://github.com/tamld"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamld&langs_count=8&title_color=6f42c1&text_color=ffffff&icon_color=6f42c1&bg_color=0d1117&hide_border=true&locale=vi&custom_title=Ngôn%20ngữ%20sử%20dụng%20nhiều%20nhất" alt="Ngôn ngữ phổ biến nhất" /></a>
-
----
-
-## 📬 Liên hệ
-
-- 📧 Email: [ductam1828@gmail.com](mailto:ductam1828@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/tamld](https://linkedin.com/in/tamld)
-- 🎥 YouTube: [@uctamle8644](https://www.youtube.com/channel/uctamle8644)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamld&theme=tokyonight&hide_border=true" width="60%" />
+</div>
 
 ---
 
-## ☕ Ủng hộ
+## 🧭 Nguyên tắc làm việc
 
-Nếu những dự án này có ích với bạn, mình rất trân trọng sự ủng hộ:
+- **Mechanism over prompting (Cơ chế quan trọng hơn Lời nhắc)** — Đừng nhắc AI phải cẩn thận; hãy xây dựng các rào chắn (guardrail) để việc mắc lỗi là bất khả thi.
+- **Evidence over plausibility (Bằng chứng thay vì Phỏng đoán)** — Nếu chưa tự tay verify, hãy gắn thẻ `[HYPO]` (Giả thuyết).
+- **Stability over complexity (Ổn định thay vì Phức tạp)** — Hệ thống càng ít "moving parts" (linh kiện thừa), càng giảm rủi ro sập.
+- **Document along the way (Viết docs liên tục)** — Hệ thống sẽ tồn tại lâu hơn người tạo ra nó.
 
-<a href="https://www.buymeacoffee.com/tamld"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+---
+
+<div align="center">
+
+🌐 [View in English](README.md) &nbsp;|&nbsp; ☕ [Buy me a coffee](https://www.buymeacoffee.com/tamld)
+
+</div>
